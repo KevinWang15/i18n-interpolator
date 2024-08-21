@@ -1,0 +1,15 @@
+{
+  "name": "i18n-interpolator",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "interpolator.js",
+  "scripts": {
+    "test": "mocha ./interpolator.test.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "json5": "^2.2.3",
+    "mocha": "^10.4.0"
+  }
+}
